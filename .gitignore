@@ -1,0 +1,47 @@
+# Ignore database files
+*.db
+*.sqlite
+*.sqlitedb
+
+# Ignore backup and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore sensitive configuration files
+.env
+config.json
+secrets.yml
+
+# Ignore BI tool exports
+*.twb
+*.twbx
+*.pbix
+*.rpd
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore dump files
+*.sql.dump
+
+# Ignore node modules (if used for frontend or tooling)
+node_modules/
+
+# Ignore generated documentation
+/docs/_build/
