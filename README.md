@@ -94,12 +94,12 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ---
 
 ## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
 
 ---
 
 ## **Contact**
 For questions or feedback, please reach out to:
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/your-profile](https://github.com/your-profile)
+- **Name**: [Joshua Parep]
+- **Email**: [contact@joshuaparep.com]
+- **GitHub**: [https://github.com/jparep](https://github.com/jparep)
