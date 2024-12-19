@@ -45,3 +45,6 @@ node_modules/
 
 # Ignore generated documentation
 /docs/_build/
+
+# Ignore data fiels
+data/
