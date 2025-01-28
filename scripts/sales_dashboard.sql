@@ -12,4 +12,6 @@ FROM
 LEFT JOIN
     top_products p
 ON
+    k.sales_date = p.sales_date
+WHERE
     k.sales_date BETWEEN '2025-01-01' AND '2025-12-31';
